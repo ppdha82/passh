@@ -54,7 +54,7 @@
 #define DEFAULT_TIMEOUT  0
 #define DEFAULT_PASSWD   "password"
 #define DEFAULT_PROMPT   "[Pp]assword: \\{0,1\\}$"
-#define DEFAULT_YESNO    "(yes/no)? \\{0,1\\}$"
+#define DEFAULT_YESNO    "yes/no"
 
 #define ERROR_GENERAL    (200 + 1)
 #define ERROR_USAGE      (200 + 2)
